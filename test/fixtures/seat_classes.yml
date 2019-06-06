@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  class_name: MyString
+  price: 9.99
+  food_service: false
+  seat_type: MyString
+  leg_room: 1
+
+two:
+  class_name: MyString
+  price: 9.99
+  food_service: false
+  seat_type: MyString
+  leg_room: 1
